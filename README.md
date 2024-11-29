@@ -1,5 +1,7 @@
 # Nova Landing - Sitio Web de Smartwatch
 
+![Captura de pantalla 2024-11-28 233210](https://github.com/user-attachments/assets/cec2179e-59e5-44d0-8f71-de3691cd6178)
+
 ## 📝 Descripción
 Nova Landing es una landing page moderna y dinámica diseñada para la presentación de smartwatches premium. El proyecto implementa las últimas características de Angular 17, presentando un diseño elegante y responsive que destaca las características del producto tecnológico.
 
